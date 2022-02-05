@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Gydytojas
+- 👋 Hi, I’m @Gydytojas - Vidas Šavinis
 - 👀 I’m interested in FRONTEND
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning HTML5, CSS and JavaScript
 - 💞️ I’m looking to collaborate on managing websites
-- 📫 How to reach me? Email savinis.vidas@gmail.com
+- 📫 How to reach me? Via Email - savinis.vidas@gmail.com
 
 <!---
 Gydytojas/Gydytojas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
