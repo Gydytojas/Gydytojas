@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gydytojas - Vidas Šavinis
-- 👀 I’m interested in FRONTEND
+- 👀 I’m interested in <strong>Frontend</strong>
 - 🌱 I’m currently learning HTML5, CSS and JavaScript
 - 💞️ I’m looking to collaborate on managing websites
 - 📫 How to reach me? Via Email - savinis.vidas@gmail.com
